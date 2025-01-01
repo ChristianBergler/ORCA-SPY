@@ -62,5 +62,5 @@ Technical support:
 On questions regarding the implementation or usage of the code extensions, please contact us 
 through via email at:
 Hauerch71498@th-nuernberg.de (alternative: Hauechri@gmail.com)
-christian.bergler@fau.de
+c.bergler@oth-aw.de (alternative: christian.bergler@fau.de)
 
